@@ -1,8 +1,6 @@
 # XAF LandingPage
 
-## Instalación
-
-Instrucciones para cambiar la imagen del landingpage:
+## Instrucciones para cambiar la imagen del landingpage:
 
 ```bash
 # Ubicar archivo
