@@ -1,0 +1,28 @@
+/* _content/Landing_Page.Blazor.Server/Pages/LandingPage.cshtml.rz.scp.css */
+body[b-q5thcxqo45] {
+    font-family: "Ysabeau SC", sans-serif;
+    background-color: #f4f4f4;
+}
+
+.jumbotron[b-q5thcxqo45] {
+    background-color: #007bff;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; /* Default for mobile */
+}
+
+    .jumbotron img[b-q5thcxqo45] {
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 20px; /* Space between image and text for mobile */
+    }
+
+.container[b-q5thcxqo45] {
+    margin-top: 50px;
+}
+
+.btn-custom[b-q5thcxqo45] {
+    margin: 10px;
+}

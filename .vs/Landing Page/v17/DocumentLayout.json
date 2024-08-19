@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB60C69-9E57-4607-9891-EBD7FD5E6BCB}|Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj|c:\\users\\lmaidana\\source\\repos\\landing page\\landing_page.blazor.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AB60C69-9E57-4607-9891-EBD7FD5E6BCB}|Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj|solutionrelative:landing_page.blazor.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB60C69-9E57-4607-9891-EBD7FD5E6BCB}|Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj|c:\\users\\lmaidana\\source\\repos\\landing page\\landing_page.blazor.server\\pages\\landingpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AB60C69-9E57-4607-9891-EBD7FD5E6BCB}|Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj|solutionrelative:landing_page.blazor.server\\pages\\landingpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB60C69-9E57-4607-9891-EBD7FD5E6BCB}|Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj|c:\\users\\lmaidana\\source\\repos\\landing page\\landing_page.blazor.server\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AB60C69-9E57-4607-9891-EBD7FD5E6BCB}|Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj|solutionrelative:landing_page.blazor.server\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB60C69-9E57-4607-9891-EBD7FD5E6BCB}|Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj|c:\\users\\lmaidana\\source\\repos\\landing page\\landing_page.blazor.server\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AB60C69-9E57-4607-9891-EBD7FD5E6BCB}|Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj|solutionrelative:landing_page.blazor.server\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB60C69-9E57-4607-9891-EBD7FD5E6BCB}|Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj|c:\\users\\lmaidana\\source\\repos\\landing page\\landing_page.blazor.server\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AB60C69-9E57-4607-9891-EBD7FD5E6BCB}|Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj|solutionrelative:landing_page.blazor.server\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E456B5D-64B2-4892-91CE-C45E89976491}|Landing_Page.Module\\Landing_Page.Module.csproj|c:\\users\\lmaidana\\source\\repos\\landing page\\landing_page.module\\welcome.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E456B5D-64B2-4892-91CE-C45E89976491}|Landing_Page.Module\\Landing_Page.Module.csproj|solutionrelative:landing_page.module\\welcome.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E456B5D-64B2-4892-91CE-C45E89976491}|Landing_Page.Module\\Landing_Page.Module.csproj|c:\\users\\lmaidana\\source\\repos\\landing page\\landing_page.module\\businessobjects\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E456B5D-64B2-4892-91CE-C45E89976491}|Landing_Page.Module\\Landing_Page.Module.csproj|solutionrelative:landing_page.module\\businessobjects\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E456B5D-64B2-4892-91CE-C45E89976491}|Landing_Page.Module\\Landing_Page.Module.csproj|c:\\users\\lmaidana\\source\\repos\\landing page\\landing_page.module\\businessobjects\\applicationuserlogininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E456B5D-64B2-4892-91CE-C45E89976491}|Landing_Page.Module\\Landing_Page.Module.csproj|solutionrelative:landing_page.module\\businessobjects\\applicationuserlogininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\App.razor",
+              "RelativeDocumentMoniker": "Landing_Page.Blazor.Server\\App.razor",
+              "ToolTip": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\App.razor",
+              "RelativeToolTip": "Landing_Page.Blazor.Server\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T16:59:50.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\_Imports.razor",
+              "RelativeDocumentMoniker": "Landing_Page.Blazor.Server\\_Imports.razor",
+              "ToolTip": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\_Imports.razor",
+              "RelativeToolTip": "Landing_Page.Blazor.Server\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T16:59:47.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Module\\BusinessObjects\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Landing_Page.Module\\BusinessObjects\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Module\\BusinessObjects\\ApplicationUser.cs",
+              "RelativeToolTip": "Landing_Page.Module\\BusinessObjects\\ApplicationUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:53:30.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUserLoginInfo.cs",
+              "DocumentMoniker": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Module\\BusinessObjects\\ApplicationUserLoginInfo.cs",
+              "RelativeDocumentMoniker": "Landing_Page.Module\\BusinessObjects\\ApplicationUserLoginInfo.cs",
+              "ToolTip": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Module\\BusinessObjects\\ApplicationUserLoginInfo.cs",
+              "RelativeToolTip": "Landing_Page.Module\\BusinessObjects\\ApplicationUserLoginInfo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:51:23.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Welcome.html",
+              "DocumentMoniker": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Module\\Welcome.html",
+              "RelativeDocumentMoniker": "Landing_Page.Module\\Welcome.html",
+              "ToolTip": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Module\\Welcome.html",
+              "RelativeToolTip": "Landing_Page.Module\\Welcome.html",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAEwHEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-19T13:03:17.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LandingPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\Pages\\LandingPage.cshtml",
+              "RelativeDocumentMoniker": "Landing_Page.Blazor.Server\\Pages\\LandingPage.cshtml",
+              "ToolTip": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\Pages\\LandingPage.cshtml",
+              "RelativeToolTip": "Landing_Page.Blazor.Server\\Pages\\LandingPage.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T20:54:33.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\Startup.cs",
+              "RelativeDocumentMoniker": "Landing_Page.Blazor.Server\\Startup.cs",
+              "ToolTip": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\Startup.cs",
+              "RelativeToolTip": "Landing_Page.Blazor.Server\\Startup.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T20:27:43.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Landing_Page.Blazor.Server\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Landing_Page.Blazor.Server\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T19:54:16.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

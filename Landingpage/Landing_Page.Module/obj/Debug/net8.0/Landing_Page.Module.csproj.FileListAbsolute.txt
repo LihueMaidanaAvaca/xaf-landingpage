@@ -1,0 +1,12 @@
+C:\Users\lmaidana\source\repos\Landing Page\Landing_Page.Module\bin\Debug\net8.0\Landing_Page.Module.deps.json
+C:\Users\lmaidana\source\repos\Landing Page\Landing_Page.Module\bin\Debug\net8.0\Landing_Page.Module.dll
+C:\Users\lmaidana\source\repos\Landing Page\Landing_Page.Module\bin\Debug\net8.0\Landing_Page.Module.pdb
+C:\Users\lmaidana\source\repos\Landing Page\Landing_Page.Module\obj\Debug\net8.0\Landing_Page.Module.csproj.AssemblyReference.cache
+C:\Users\lmaidana\source\repos\Landing Page\Landing_Page.Module\obj\Debug\net8.0\Landing_Page.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmaidana\source\repos\Landing Page\Landing_Page.Module\obj\Debug\net8.0\Landing_Page.Module.AssemblyInfoInputs.cache
+C:\Users\lmaidana\source\repos\Landing Page\Landing_Page.Module\obj\Debug\net8.0\Landing_Page.Module.AssemblyInfo.cs
+C:\Users\lmaidana\source\repos\Landing Page\Landing_Page.Module\obj\Debug\net8.0\Landing_Page.Module.csproj.CoreCompileInputs.cache
+C:\Users\lmaidana\source\repos\Landing Page\Landing_Page.Module\obj\Debug\net8.0\Landing_Page.Module.dll
+C:\Users\lmaidana\source\repos\Landing Page\Landing_Page.Module\obj\Debug\net8.0\refint\Landing_Page.Module.dll
+C:\Users\lmaidana\source\repos\Landing Page\Landing_Page.Module\obj\Debug\net8.0\Landing_Page.Module.pdb
+C:\Users\lmaidana\source\repos\Landing Page\Landing_Page.Module\obj\Debug\net8.0\ref\Landing_Page.Module.dll
