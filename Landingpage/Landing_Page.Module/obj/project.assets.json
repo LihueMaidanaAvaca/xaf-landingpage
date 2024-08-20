@@ -3984,11 +3984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Module\\Landing_Page.Module.csproj",
+      "projectUniqueName": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Module\\Landing_Page.Module.csproj",
       "projectName": "Landing_Page.Module",
-      "projectPath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Module\\Landing_Page.Module.csproj",
+      "projectPath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Module\\Landing_Page.Module.csproj",
       "packagesPath": "C:\\Users\\lmaidana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Module\\obj\\",
+      "outputPath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Module\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",

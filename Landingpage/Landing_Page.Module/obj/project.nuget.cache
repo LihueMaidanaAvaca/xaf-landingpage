@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g698eo+rMm8=",
+  "dgSpecHash": "2f73TXgOF1A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Module\\Landing_Page.Module.csproj",
+  "projectFilePath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Module\\Landing_Page.Module.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lmaidana\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\lmaidana\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

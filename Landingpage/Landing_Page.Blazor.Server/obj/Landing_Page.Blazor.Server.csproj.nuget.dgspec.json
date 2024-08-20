@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj": {}
+    "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj": {
+    "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj",
+        "projectUniqueName": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj",
         "projectName": "Landing_Page.Blazor.Server",
-        "projectPath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj",
+        "projectPath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Blazor.Server\\Landing_Page.Blazor.Server.csproj",
         "packagesPath": "C:\\Users\\lmaidana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\obj\\",
+        "outputPath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Blazor.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",
@@ -35,8 +35,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Module\\Landing_Page.Module.csproj": {
-                "projectPath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Module\\Landing_Page.Module.csproj"
+              "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Module\\Landing_Page.Module.csproj": {
+                "projectPath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Module\\Landing_Page.Module.csproj"
               }
             }
           }
@@ -118,14 +118,14 @@
         }
       }
     },
-    "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Module\\Landing_Page.Module.csproj": {
+    "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Module\\Landing_Page.Module.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Module\\Landing_Page.Module.csproj",
+        "projectUniqueName": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Module\\Landing_Page.Module.csproj",
         "projectName": "Landing_Page.Module",
-        "projectPath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Module\\Landing_Page.Module.csproj",
+        "projectPath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Module\\Landing_Page.Module.csproj",
         "packagesPath": "C:\\Users\\lmaidana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Module\\obj\\",
+        "outputPath": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Module\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages",

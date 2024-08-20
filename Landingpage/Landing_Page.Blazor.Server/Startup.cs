@@ -83,7 +83,7 @@ public class Startup {
             options.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme;
         });
         authentication.AddCookie(options => {
-            options.LoginPath = "/LoginPage";
+            options.LoginPath = "/NewLogIn";
         });
     }
 

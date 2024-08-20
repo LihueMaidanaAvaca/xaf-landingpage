@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pCyWqks1Qq5mltszwFquJZsF7s9hOCYPSYKzQl+QE0c=",
+  "Hash": "H72XT37JNoWwqtgiu9dyNtFR1noMv9SXV8XBsqMT/50=",
   "Source": "Landing_Page.Blazor.Server",
   "BasePath": "_content/Landing_Page.Blazor.Server",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Landing_Page.Blazor.Server\\wwwroot",
       "Source": "Landing_Page.Blazor.Server",
-      "ContentRoot": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/Landing_Page.Blazor.Server",
       "Pattern": "**"
     }
@@ -4197,10 +4197,10 @@
       "OriginalItemSpec": "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.expressapp.blazor\\24.1.4\\staticwebassets\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Blazor.Server\\wwwroot\\css\\site.css",
       "SourceId": "Landing_Page.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/Landing_Page.Blazor.Server",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -4216,10 +4216,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Blazor.Server\\wwwroot\\favicon.ico",
       "SourceId": "Landing_Page.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/Landing_Page.Blazor.Server",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -4235,10 +4235,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "Identity": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Blazor.Server\\wwwroot\\images\\Logo.svg",
       "SourceId": "Landing_Page.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/Landing_Page.Blazor.Server",
       "RelativePath": "images/Logo.svg",
       "AssetKind": "All",
@@ -4254,10 +4254,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Logo.svg"
     },
     {
-      "Identity": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "Identity": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
       "SourceId": "Landing_Page.Blazor.Server",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landing_Page.Blazor.Server\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\lmaidana\\source\\repos\\Landing Page\\Landingpage\\Landing_Page.Blazor.Server\\wwwroot\\",
       "BasePath": "_content/Landing_Page.Blazor.Server",
       "RelativePath": "images/SplashScreen.svg",
       "AssetKind": "All",
