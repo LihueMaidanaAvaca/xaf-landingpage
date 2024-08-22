@@ -37,10 +37,10 @@ public sealed class Landing_PageBlazorModule : ModuleBase {
         // For more information, refer to the following topic: https://docs.devexpress.com/eXpressAppFramework/113698/
         application.CreateCustomModelDifferenceStore += Application_CreateCustomModelDifferenceStore;
         application.CreateCustomUserModelDifferenceStore += Application_CreateCustomUserModelDifferenceStore;
-        //application.CreateCustomLogonWindowControllers += application_CreateCustomLogonWindowControllers;
+        application.CreateCustomLogonWindowControllers += application_CreateCustomLogonWindowControllers;
     }
-    //private void application_CreateCustomLogonWindowControllers(object sender, CreateCustomLogonWindowControllersEventArgs e)
-    //{
-    //    e.Controllers.Add(((XafApplication)sender).CreateController<LogonWindowTemplate1>());
-    //}
+    private void application_CreateCustomLogonWindowControllers(object sender, CreateCustomLogonWindowControllersEventArgs e)
+    {
+        e.Controllers.Add(((XafApplication)sender).CreateController<BackToLanding>());
+    }
 }
