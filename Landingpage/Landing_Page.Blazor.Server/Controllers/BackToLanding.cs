@@ -1,20 +1,25 @@
 ﻿using DevExpress.ExpressApp;
 using DevExpress.ExpressApp.Actions;
-using DevExpress.ExpressApp.Blazor;
 using DevExpress.Persistent.Base;
-using System;
+using DevExpress.ExpressApp.SystemModule;
+using DevExpress.ExpressApp.Blazor;
+using Microsoft.AspNetCore.Components;
+
 namespace Landing_Page.Blazor.Server.Controllers
 {
-    public partial class BackToLanding : ViewController <DetailView>
+    public partial class BackToLanding : ViewController<DetailView>
     {
         public BackToLanding()
         {
             InitializeComponent();
 
             var actionLanding = new SimpleAction(this, "Back to Landing", PredefinedCategory.PopupActions);
-            actionLanding.Execute += (_, _) =>
+            actionLanding.Execute += (s, e) =>
             {
-                
+                // Mostrar un mensaje o popup
+                var navigationManager
+                = ((BlazorApplication)Application).ServiceProvider.GetRequiredService<NavigationManager>();
+                navigationManager.NavigateTo("/", forceLoad: true);
             };
         }
     }
