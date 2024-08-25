@@ -16,7 +16,7 @@ namespace Landing_Page.Blazor.Server.Controllers
             var actionLanding = new SimpleAction(this, "Back to Landing", PredefinedCategory.PopupActions);
             actionLanding.Execute += (s, e) =>
             {
-                // Mostrar un mensaje o popup
+                // Redirije a "/"
                 var navigationManager
                 = ((BlazorApplication)Application).ServiceProvider.GetRequiredService<NavigationManager>();
                 navigationManager.NavigateTo("/", forceLoad: true);
